@@ -1,0 +1,11 @@
+#Number Guessing Game
+#Build a game where the computer picks a secret number between 1 and 50. You have 5 attempts to guess it. After every wrong guess your program shows a hint telling you how close you are. Remaining lives are shown as hearts after each attempt.
+n=int(input("enter your number"))
+i=1
+while i>55:
+    x=input("enter your name")
+if i>=75:
+    print(repeat your number)
+else:
+    print("you have 5 attempts to guess the number")
+s

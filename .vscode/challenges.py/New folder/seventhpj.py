@@ -8,4 +8,4 @@ elif number>+30 and number<=60:
     print("its a digits") 
 else:
     print("its not a digits")                                             
-  
+  git sta
