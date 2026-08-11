@@ -1,0 +1,13 @@
+import array as a
+store=a.array("i",[1,2,3,4,5])
+print(store)
+store.append(6)
+print(store)
+store.append(7)
+print(store)
+store.append(8)
+print(store)
+store.insert(3, 50)
+print(store)
+store.reverse()
+print(store)
